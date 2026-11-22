@@ -1,32 +1,28 @@
-# 💻 Code in Place X
+# Code in Place X
 
-A collection of Python solutions, teaching examples, and problem-solving explorations from my journey as a Section Leader in Stanford's Code in Place X.
+Python assignments and projects from my participation in Stanford's Code in Place X program as a Section Leader.
 
-This repository documents the concepts I teach, the programming problems I work through, and my implementations of additional challenges.
+This repository brings together my work across the weekly curriculum, from introductory Python exercises to larger programs.
 
-## 📚 Curriculum
+## Curriculum
 
-| Week | Topics | Status |
-|---|---|---|
-| 01 | If Statements and While Loops | In progress |
-| 02 | Numbers and Random | In progress |
-| 03 | Lists and For Loops | In progress |
-| 04 | Functions | In progress |
-| 05 | Dictionaries | In progress |
-| 06 | Coming soon | Upcoming |
+| Week | Topic                         | Project          |
+| ---- | ----------------------------- | ---------------- |
+| 01   | If Statements and While Loops | Guess My Animal  |
+| 02   | Numbers and Random            | Khansole Academy |
+| 03   | Lists and For Loops           | Wordle           |
+| 04   | Functions                     | Code Cracker     |
+| 05   | Dictionaries                  | Emoji Translator |
+| 06   | AI and Chatbots               | Chatbot          |
 
-## 📂 Repository Contents
+## Repository Contents
 
-- **Weekly Lessons:** Python concepts and teaching examples.
-- **Problem Solutions:** Implementations of exercises from the curriculum.
-- **Problem Variations:** Solutions to additional challenges, where permitted.
-- **Learning Notes:** Explanations, approaches, and useful programming insights.
+The repository is organized by week. Weekly folders contain the relevant assignment work and project files, with README files where additional context is useful.
 
-## 🎯 Purpose
+## About the Projects
 
-To document my teaching experience, strengthen my Python problem-solving skills, and explore different ways to approach programming problems.
+The projects in this repository apply Python concepts to small, interactive programs. They include a word-guessing game, a code-breaking exercise, an emoji dictionary and translator, and a chatbot that uses an AI API.
 
-## ⚠️ Disclaimer
+## Note
 
-This is an independent educational repository maintained as part of my Code in Place X learning and teaching journey. It is not an official Stanford repository.
-
+This is an independent repository for educational purposes. It is not an official Stanford University repository.
