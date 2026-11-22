@@ -21,7 +21,11 @@ The repository is organized by week. Weekly folders contain the relevant assignm
 
 ## About the Projects
 
-The projects in this repository apply Python concepts to small, interactive programs. They include a word-guessing game, a code-breaking exercise, an emoji dictionary and translator, and a chatbot that uses an AI API.
+The projects in this repository apply Python concepts to small, interactive programs. They include a word-guessing game, a code-breaking exercise, an emoji dictionary and translator, and a chatbot that uses an AI API. 
+
+## Section Leader Experience
+
+As a Section Leader, I had the opportunity to teach students from different countries and backgrounds through weekly Python sessions. This experience helped me improve my communication and teaching skills, adapt to different learning styles, and create a collaborative environment where students could learn from one another.
 
 ## Note
 
